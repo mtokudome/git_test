@@ -1,0 +1,1 @@
+This is Makoto's first git project!
